@@ -41,8 +41,6 @@
 
 ## 🎥 YouTube Channel
 
-## 🎥 YouTube Channel  
-
 <p align="center">
   <a href="https://www.youtube.com/@technicalwindows47">
     <img src="Banner.png" width="100%" alt="Technical Windows YouTube Banner"/>
