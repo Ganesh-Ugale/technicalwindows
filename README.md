@@ -41,9 +41,17 @@
 
 ## 🎥 YouTube Channel
 
+## 🎥 YouTube Channel  
+
 <p align="center">
   <a href="https://www.youtube.com/@technicalwindows47">
-    <img src="https://img.youtube.com/vi/Dp2-dAftD1Q/maxresdefault.jpg" width="70%">
+    <img src="Banner.png" width="100%" alt="Technical Windows YouTube Banner"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@technicalwindows47">
+    <img src="https://img.shields.io/badge/Subscribe-Technical%20Windows-red?style=for-the-badge&logo=youtube"/>
   </a>
 </p>
 
