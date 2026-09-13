@@ -1,0 +1,6 @@
+# Once you're approved for Google AdSense, replace pub-0000000000000000
+# below with YOUR real publisher ID (shown in your AdSense account
+# under Sites > technicalwindows.com), then re-deploy this file.
+# Until then, leave this file as-is — it does nothing on its own.
+#
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
