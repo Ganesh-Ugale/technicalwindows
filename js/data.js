@@ -17,15 +17,6 @@ const CATEGORY_LABELS = {
 
 const VIDEOS = [
   {
-    id: "ganesh-ugal",
-    title: "Testing Title",
-    category: "installation",
-    thumbnail: "images/thumbnails/ganesh-ugal.jpg",
-    setupLinks: [
-      { label: "Test Setup", url: "https://ganesh-ugale.github.io/technicalwindows/" }
-    ]
-  },
-  {
     id: "Dp2-dAftD1Q",
     title: "How to Install Hadoop on Windows: Step-by-Step Guide | SPPU DSBDA LAB | Big Data",
     category: "bigdata",
