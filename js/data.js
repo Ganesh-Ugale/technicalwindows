@@ -17,6 +17,14 @@ const CATEGORY_LABELS = {
 
 const VIDEOS = [
   {
+    id: "Dp2-dAftD1Q",
+    title: "How to Install Hadoop on Windows: Step-by-Step Guide | SPPU DSBDA LAB | Big Data",
+    category: "bigdata",
+    setupLinks: [
+      { label: "Setup Files", url: "https://drive.google.com/drive/folders/1xf9EBHozaYgD4rrMYjgaFMkA-qyrAXZ9?usp=sharing" }
+    ]
+  },
+  {
     id: "htbYT7_TZKA",
     title: "Hadoop MapReduce WordCount Practical Tutorial | DSBDA Lab Group-B(1) | SPPU",
     category: "bigdata",
