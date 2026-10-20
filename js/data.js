@@ -17,15 +17,6 @@ const CATEGORY_LABELS = {
 
 const VIDEOS = [
   {
-    id: "Dp2-dAftD1P",
-    title: "Install Hadoop on Windows 10/11 Step by Step | SPPU Big Data (DSBDA Lab)",
-    category: "bigdata",
-    thumbnail: "images/thumbnails/Dp2-dAftD1P.jpg",
-    setupLinks: [
-      { label: "Setup Files", url: "https://drive.google.com/drive/folders/1rndQpKVMptRZp47v71qPyyfZIcI7zgRE?usp=sharing" }
-    ]
-  },
-  {
     id: "Dp2-dAftD1Q",
     title: "How to Install Hadoop on Windows: Step-by-Step Guide | SPPU DSBDA LAB | Big Data",
     category: "bigdata",
